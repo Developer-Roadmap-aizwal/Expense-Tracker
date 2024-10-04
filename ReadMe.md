@@ -1,5 +1,6 @@
 # Expense Tracker API
 
+Expense Tracker API project from https://roadmap.sh/projects/expense-tracker-api
 ## Introduction
 
 This is a RESTful API for an expense tracker application. It allows users to manage their expenses by providing endpoints for creating, retrieving, updating, and deleting expenses. The API is built using Spring Boot and uses JWT for authentication.
