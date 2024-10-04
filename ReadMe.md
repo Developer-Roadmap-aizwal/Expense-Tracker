@@ -59,11 +59,3 @@ POST /expenses Authorization: Bearer <JWT_TOKEN>
 GET /expenses Authorization: Bearer <JWT_TOKEN>
 
 ```
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests for any bug fixes, improvements, or new features.
-
-## License
-
-This project is licensed under the MIT License.
